@@ -1,0 +1,11 @@
+{
+  "seed": 20261106,
+  "replicates": 600,
+  "n_source": 1000,
+  "n_target": 300,
+  "n_evaluation": 5000,
+  "quantiles": [0.25, 0.5, 0.75],
+  "noise": ["normal", "t3"],
+  "scale_slopes": [0.0, 0.25, 0.75],
+  "alpha": 0.05
+}

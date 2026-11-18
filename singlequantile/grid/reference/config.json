@@ -1,0 +1,43 @@
+{
+  "replicates": 200,
+  "nS": 1000,
+  "nT_core": 100,
+  "nEval": 5000,
+  "taus": [
+    0.5,
+    0.9
+  ],
+  "noises": [
+    "normal",
+    "t3",
+    "cauchy"
+  ],
+  "deltas": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "knots": [
+    -0.5,
+    0.0,
+    0.5
+  ],
+  "seed": 2026,
+  "p": 20,
+  "r": 2,
+  "retained_coordinates_zero_based": [
+    0
+  ],
+  "source_sieve_coef_box": 10.0,
+  "affine_ball_radius": 100.0,
+  "basis_dimension": 8,
+  "affine_dimension": 5,
+  "loading_basis": "DCT-II (19 by 19), columns in increasing frequency",
+  "primary_coefficient_box": 10.0,
+  "sensitivity_coefficient_box": 20.0,
+  "sensitivity_replicates": 100,
+  "workers": 4,
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "python": "3.12.14"
+}

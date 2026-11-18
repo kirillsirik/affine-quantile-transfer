@@ -1,0 +1,158 @@
+{
+  "directory": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/",
+  "downloads": [
+    {
+      "file": "csv_pca.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_pca.zip",
+      "bytes": 70114146,
+      "sha256": "fa3e473e13b09bb6d9f915c7f5c58b8405a8e48d22c43f30d43055a8a6c52882",
+      "retrieved_utc": "2026-11-14T02:02:34Z",
+      "last_modified_utc": "2025-12-04T12:00:07Z",
+      "csv_member": "psam_p06.csv"
+    },
+    {
+      "file": "csv_ptx.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_ptx.zip",
+      "bytes": 52105719,
+      "sha256": "42ad7127988234d7dd30c23df8ada371b2135b5db912d2e634a6f901477afe63",
+      "retrieved_utc": "2026-11-14T02:02:35Z",
+      "last_modified_utc": "2025-12-04T12:00:10Z",
+      "csv_member": "psam_p48.csv"
+    },
+    {
+      "file": "csv_pwy.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_pwy.zip",
+      "bytes": 1180831,
+      "sha256": "abaa0963ea732336b84546ba7efb4a922e37c89ca8d04a35a673f7865b589132",
+      "retrieved_utc": "2026-11-14T02:02:35Z",
+      "last_modified_utc": "2025-12-04T12:00:14Z",
+      "csv_member": "psam_p56.csv"
+    },
+    {
+      "file": "csv_pvt.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_pvt.zip",
+      "bytes": 1309643,
+      "sha256": "c5ea448bc37f909af614d49c3979696c7564e36350bbc823249d8b8534aee765",
+      "retrieved_utc": "2026-11-14T02:02:35Z",
+      "last_modified_utc": "2025-12-04T12:00:14Z",
+      "csv_member": "psam_p50.csv"
+    },
+    {
+      "file": "csv_pak.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_pak.zip",
+      "bytes": 1298531,
+      "sha256": "009d1341ae7d7fd9400830a2f29ab42db75da561654dd7b6e7baccfaf8f53be0",
+      "retrieved_utc": "2026-11-14T02:02:36Z",
+      "last_modified_utc": "2025-12-04T12:00:06Z",
+      "csv_member": "psam_p02.csv"
+    },
+    {
+      "file": "csv_pnd.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_pnd.zip",
+      "bytes": 1522208,
+      "sha256": "6e7cda6989459d361bd2ad9afec1848306b8829a58377ff9521c523a5bcf1c34",
+      "retrieved_utc": "2026-11-14T02:02:36Z",
+      "last_modified_utc": "2025-12-04T12:00:09Z",
+      "csv_member": "psam_p38.csv"
+    },
+    {
+      "file": "csv_psd.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_psd.zip",
+      "bytes": 1751142,
+      "sha256": "617eb0b2d1bf5835c14b8cdfd83074ee70ae7e56f3a0818b4f15b2bb378810ab",
+      "retrieved_utc": "2026-11-14T02:02:36Z",
+      "last_modified_utc": "2025-12-04T12:00:09Z",
+      "csv_member": "psam_p46.csv"
+    },
+    {
+      "file": "csv_pde.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_pde.zip",
+      "bytes": 1846505,
+      "sha256": "7f836f7c574182dba4954ab0884bb6ad4105a34289b61cce677a5a7111b1e696",
+      "retrieved_utc": "2026-11-14T02:02:36Z",
+      "last_modified_utc": "2025-12-04T12:00:07Z",
+      "csv_member": "psam_p10.csv"
+    },
+    {
+      "file": "csv_pri.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_pri.zip",
+      "bytes": 1944668,
+      "sha256": "44af112cffc9615e0d8c9f69a585735c524a03ca66d0191f194c77e55b63ac1e",
+      "retrieved_utc": "2026-11-14T02:02:37Z",
+      "last_modified_utc": "2025-12-04T12:00:09Z",
+      "csv_member": "psam_p44.csv"
+    },
+    {
+      "file": "csv_pmt.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2024/1-Year/csv_pmt.zip",
+      "bytes": 2097281,
+      "sha256": "6e11bf6e2826bff466012f35c8809ff8f6c2a3036b19233cb3f7c47a883231b6",
+      "retrieved_utc": "2026-11-14T02:02:37Z",
+      "last_modified_utc": "2025-12-04T12:00:08Z",
+      "csv_member": "psam_p30.csv"
+    },
+    {
+      "file": "2024_pums_top_and_bottom_coded_values.csv",
+      "url": "https://www2.census.gov/programs-surveys/acs/tech_docs/pums/top_coded_values/2024_pums_top_and_bottom_coded_values.csv",
+      "bytes": 14935,
+      "sha256": "d8defa2e318abe924dfd208beb52920426c60a3ba063ee8057cbc6f2a8fc35db",
+      "retrieved_utc": "2026-11-14T02:02:37Z",
+      "last_modified_utc": "2025-12-04T11:45:03Z",
+      "csv_member": null
+    }
+  ],
+  "adjinc": {
+    "CA": 1015250,
+    "TX": 1015250,
+    "WY": 1015250,
+    "VT": 1015250,
+    "AK": 1015250,
+    "ND": 1015250,
+    "SD": 1015250,
+    "DE": 1015250,
+    "RI": 1015250,
+    "MT": 1015250
+  },
+  "extracts": {
+    "ca.csv.gz": {
+      "records": 20000,
+      "sha256_uncompressed": "d4435c5a8ffbd4eb50584d63a938eb4715c24bff4369fd498a306e1dd8a1f0b2"
+    },
+    "tx.csv.gz": {
+      "records": 20000,
+      "sha256_uncompressed": "dca02c2801e9131973f476182a061c64d1728cd5694998e0c50f6944c75c63cc"
+    },
+    "wy.csv.gz": {
+      "records": 3198,
+      "sha256_uncompressed": "ffcb3b687653cf4e21f083dda101d0a7793f77d9d6edc04106a92e0b22e07f37"
+    },
+    "vt.csv.gz": {
+      "records": 3835,
+      "sha256_uncompressed": "024826f5b8d944b20145d6eaf2ca2cb3f741b64bc4fd24fe735a4192492b3a64"
+    },
+    "ak.csv.gz": {
+      "records": 3496,
+      "sha256_uncompressed": "0479cd73e0d62878a7c40bea66ff961068747a0bdbb147c679dcd4260dd9e09e"
+    },
+    "nd.csv.gz": {
+      "records": 4505,
+      "sha256_uncompressed": "cde065b345cab9553b874588c5f47406e1ccaecd1ba75125ef0e8e503e659c10"
+    },
+    "sd.csv.gz": {
+      "records": 5130,
+      "sha256_uncompressed": "bcbd563a38cc5bd932be9822c4e6c5be1246075d43aefd6d87249960745209d6"
+    },
+    "de.csv.gz": {
+      "records": 4896,
+      "sha256_uncompressed": "e7d7781a47171d69319358c7d3db55a39b0bb1b516bd96a42aeaadb8ad33ec91"
+    },
+    "ri.csv.gz": {
+      "records": 5604,
+      "sha256_uncompressed": "8c1fa57da5f6d2c34fce2e5544706fbed8cafcddd6a77c303455a47cd6a831e3"
+    },
+    "mt.csv.gz": {
+      "records": 5772,
+      "sha256_uncompressed": "c7cb1b521653c4041f4b3ff63e7c8766a1a5b83668ce52bc538660921ed731ea"
+    }
+  }
+}

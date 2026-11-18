@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, these data extracts or these results, please cite the thesis."
+type: software
+title: "Affine quantile transfer: code, data and results"
+authors:
+  - family-names: Sirik
+    given-names: Kirill
+repository-code: "https://github.com/kirillsirik/affine-quantile-transfer"
+license: MIT
+preferred-citation:
+  type: thesis
+  title: "Affine Transfer for Conditional Quantiles with Heavy-Tailed Responses"
+  authors:
+    - family-names: Sirik
+      given-names: Kirill
+  institution:
+    name: "Princeton University"
+  thesis-type: "Senior thesis"
+  status: in-preparation
