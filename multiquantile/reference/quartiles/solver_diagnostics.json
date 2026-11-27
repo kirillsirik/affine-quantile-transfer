@@ -1,0 +1,10 @@
+{
+  "composite_intercepts": "left empirical quantile of y - X b at each level, one-based rank ceil(n tau)",
+  "objective_rtol": 1e-07,
+  "composite_fits": 3600,
+  "level_fits": 10800,
+  "max_relative_gap_lp": 2.722473026410229e-15,
+  "max_relative_gap_selected": 2.722473026410229e-15,
+  "max_dual_equality_residual": 3.019806626980426e-14,
+  "level_fits_where_lp_returned_another_intercept": 2204
+}

@@ -1,0 +1,38 @@
+{
+  "level_offset": 1e-05,
+  "zero_residual": 1e-07,
+  "linear_programs": 79364,
+  "linear_programs_by_study": {
+    "source": 4,
+    "benchmark": 80,
+    "fullsample": 80,
+    "transfer": 20800,
+    "sensitivity": 7200,
+    "sharing": 51200
+  },
+  "smallest_uniqueness_margin": 3.3709696596329053e-06,
+  "smallest_margin_by_study": {
+    "source": 0.000945029601229691,
+    "benchmark": 8.521180746312584e-05,
+    "fullsample": 0.003510363424043955,
+    "transfer": 5.818814039160181e-06,
+    "sensitivity": 8.558852760298663e-06,
+    "sharing": 3.3709696596329053e-06
+  },
+  "smallest_margin_program": {
+    "study": "sharing",
+    "source": null,
+    "scale": "log",
+    "target": "VT",
+    "n": 200,
+    "replicate": 167,
+    "fit": "composite"
+  },
+  "margin_threshold": 1e-06,
+  "programs_below_threshold": 0,
+  "programs_below_threshold_identity": [],
+  "fits_with_dropped_columns": 3,
+  "largest_number_dropped": 1,
+  "failed_tests": 0,
+  "failed_test_identity": []
+}

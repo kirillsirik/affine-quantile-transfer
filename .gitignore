@@ -1,0 +1,8 @@
+# Environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Everything written by make smoke, reproduce, figures and package
+/build/

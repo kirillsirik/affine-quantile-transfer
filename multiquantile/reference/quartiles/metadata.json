@@ -1,0 +1,33 @@
+{
+  "configuration": {
+    "seed": 20261106,
+    "replicates": 600,
+    "n_source": 1000,
+    "n_target": 300,
+    "n_evaluation": 5000,
+    "quantiles": [
+      0.25,
+      0.5,
+      0.75
+    ],
+    "noise": [
+      "normal",
+      "t3"
+    ],
+    "scale_slopes": [
+      0.0,
+      0.25,
+      0.75
+    ],
+    "alpha": 0.05
+  },
+  "source_coefficients": [
+    0.46287677027857177,
+    1.456441887447983,
+    0.23146674137771914
+  ],
+  "workers": 4,
+  "python": "3.12.13",
+  "scipy": "1.17.0",
+  "numpy": "2.3.5"
+}

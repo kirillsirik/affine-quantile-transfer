@@ -1,0 +1,22 @@
+# Versions that produced the reference results. requirements.txt is compiled from this file,
+# with hashes, by:
+#   uv pip compile requirements.in --universal --python-version 3.12 --generate-hashes -o requirements.txt
+
+# Direct dependencies
+numpy==2.3.5
+scipy==1.17.0
+pandas==2.2.3
+matplotlib==3.10.8
+threadpoolctl==3.8.0
+
+# Their dependencies, at the versions tested
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.68.0
+kiwisolver==1.5.1
+packaging==26.3
+pillow==13.0.0
+pyparsing==3.3.3
+python-dateutil==4.0.0
+pytz==2026.6
+tzdata==2026.6

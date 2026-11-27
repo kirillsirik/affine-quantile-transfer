@@ -1,0 +1,35 @@
+{
+  "configuration": {
+    "seed": 2026,
+    "replicates": 2000,
+    "level": 0.9,
+    "noise": [
+      "normal",
+      "t3",
+      "cauchy"
+    ],
+    "departures": [
+      0.0,
+      0.5,
+      1.0
+    ],
+    "n_source": 1000,
+    "n_target": 100,
+    "n_evaluation": 5000,
+    "variants": {
+      "bounded": {
+        "coefficient_box": 10.0,
+        "ball": true
+      },
+      "unbounded": {
+        "coefficient_box": null,
+        "ball": false
+      }
+    },
+    "batch_size": 200
+  },
+  "workers": 4,
+  "python": "3.12.13",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0"
+}
